@@ -1,0 +1,25 @@
+<object>
+  <type category="npc">
+    <name>NPC A</name>
+    <level>1</level>
+    <attack>0</attack>
+    <line>Hello Human!</line>
+  </type>
+  <type category="enemy">
+    <name>Ghost</name>
+    <level>100</level>
+    <attack>9999</attack>
+    <line>......</line>
+  </type>
+  
+    <Enemy1 name="Will'O'Wisp" attack="1" health="3" />
+    <Enemy2 name="Revenant" attack="2" health="3" />
+    <Enemy3 name="Giant Rat" attack="1" health="2" />
+    <Enemy4 name="Wretched Machine" attack="2" health="4" />
+    <Enemy5 name="Mother of Pus" attack="3" health="4" />
+    <Enemy6 name="Kobold" attack="2" health="5" />
+    <Enemy7 name="Cultist" attack="2" health="2" />
+    <Enemy8 name="Mutated Cultist" attack="3" health="2" />
+    <Enemy9 name="Crawling Chaos" attack="5" health="5" />
+</object>
+

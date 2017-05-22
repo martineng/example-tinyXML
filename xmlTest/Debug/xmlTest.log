@@ -1,0 +1,35 @@
+﻿  xmlTest.cpp
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(55): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(55): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(55): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(62): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(62): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(62): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(82): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(82): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(82): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(95): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(95): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(95): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(108): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(108): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(108): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(111): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(111): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(111): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(125): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(125): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(125): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(154): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(154): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(154): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(157): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(157): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(157): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(174): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(174): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(174): note: the missing variadic argument 1 is required by format string '%i'
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(56): warning C4715: 'secondMain': not all control paths return a value
+e:\diploma\cpp\cpp game\demo\xmltest\xmltest\xmltest.cpp(211): warning C4715: 'previousMain': not all control paths return a value
+  xmlTest.vcxproj -> E:\Diploma\cpp\cpp game\demo\xmlTest\Debug\xmlTest.exe
+  xmlTest.vcxproj -> E:\Diploma\cpp\cpp game\demo\xmlTest\Debug\xmlTest.pdb (Full PDB)
